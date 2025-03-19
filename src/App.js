@@ -48,6 +48,8 @@ export default function App() {
   );
 }
 
+
+//BÄTTRE IMPLEMENTERING MED STATE
 //const [selectedActivity, setSelectedActivity] = useState(null);
 
 
